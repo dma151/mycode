@@ -1,0 +1,6 @@
+***** this is a test file to read
+
+Will this work?
+
+Hopefully if this reader works, Ill be able to test a regex search
+
