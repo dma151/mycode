@@ -1,6 +1,7 @@
-***** this is a test file to read
+Hello this is a test file to read
 
 Will this work?
 
 Hopefully if this reader works, Ill be able to test a regex search
 
+Interesting *****, I wonder if this will take care of all *****s or Hellos
